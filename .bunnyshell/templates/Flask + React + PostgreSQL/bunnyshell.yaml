@@ -6,7 +6,7 @@ environmentVariables:
 components:
   - kind: Application
     name: flask-app
-    gitRepo: 'https://github.com/Ahmed14z/Ecom_BunnyShell.git'
+    gitRepo: 'https://github.com/Ahmed14z/Ecom_Final.git'
     gitBranch: main
     gitApplicationPath: /
     dockerCompose:
@@ -42,7 +42,7 @@ components:
         subPath: ''
   - kind: Application
     name: frontend
-    gitRepo: 'https://github.com/Ahmed14z/Ecom_BunnyShell.git'
+    gitRepo: 'https://github.com/Ahmed14z/Ecom_Final.git'
     gitBranch: main
     gitApplicationPath: my-app
     dockerCompose:
